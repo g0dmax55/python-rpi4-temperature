@@ -3,6 +3,8 @@
 from gpiozero import CPUTemperature
 import time
 
+#coded by g0dmax55
+
 try:
         while True:
                 cpu = CPUTemperature()
